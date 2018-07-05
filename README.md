@@ -1,6 +1,6 @@
 # ICO Contract
 
-This repo is a truffle project use library Open Zeppelin contracts. Token contract we use Pausabale token. Crowsdale contract we use  and modify abit TimedCrowdsale, and IndividuallyCappedCrowdsale to support private and public crowdsale (2 time crowdsale) and use PostDeliveryCrowdsale RefundableCrowdsale contract:
+This repo is a truffle project use library Open Zeppelin contracts. Token contract we use Pausabale token. Crowsdale contract we use  and modify abit TimedCrowdsale, and IndividuallyCappedCrowdsale to support whitelist sales and public sale (2 time crowdsale) and use PostDeliveryCrowdsale RefundableCrowdsale contract:
 
 ### Requirements
 
